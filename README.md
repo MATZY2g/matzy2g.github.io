@@ -8,14 +8,14 @@ I am a full-stack web developer with experience in building scalable application
 Contact
 
 Email: matuscesnak15@gmail.com
+
 LinkedIn: linkedin.com/in/matus-cesnak-6232b02b9
+
 Location: Banská Bystrica, Slovakia
 
 <hr>
 
 Skills and Technologies
-
-<hr>
 
 Programming Languages and Frameworks
 
