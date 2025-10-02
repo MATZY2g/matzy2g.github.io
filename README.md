@@ -7,13 +7,15 @@ I am a full-stack web developer with experience in building scalable application
 
 Contact
 
-Email: matzy3cs@gmail.com
-
+Email: matuscesnak15@gmail.com
 LinkedIn: linkedin.com/in/matus-cesnak-6232b02b9
-
 Location: Banská Bystrica, Slovakia
 
+<hr>
+
 Skills and Technologies
+
+<hr>
 
 Programming Languages and Frameworks
 
@@ -53,6 +55,8 @@ Database management
 
 Agile teamwork and collaboration
 
+<hr>
+
 Work Experience
 
 Co-Founder · ITčkár
@@ -83,6 +87,8 @@ Developed subpages with user guides and manuals.
 
 Contributed to improving customer documentation and system usability.
 
+<hr>
+
 Education
 
 Slovak University of Technology in Bratislava, Faculty of Informatics and Information Technologies
@@ -104,6 +110,8 @@ JavaScript Essentials 1 (Cisco)
 Foundational C# with Microsoft (freeCodeCamp)
 
 NDG Linux Unhatched
+
+<hr>
 
 Interests and Goals
 
