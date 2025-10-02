@@ -14,7 +14,6 @@ LinkedIn: linkedin.com/in/matus-cesnak-6232b02b9
 Location: Banská Bystrica, Slovakia
 
 <hr>
------------------------------------------------------------------------------------------------------
 
 Skills and Technologies
 
@@ -58,7 +57,6 @@ Agile teamwork and collaboration
 
 <hr>
 
------------------------------------------------------------------------------------------------------
 
 Work Experience
 
@@ -92,8 +90,6 @@ Contributed to improving customer documentation and system usability.
 
 <hr>
 
------------------------------------------------------------------------------------------------------
-
 Education
 
 Slovak University of Technology in Bratislava, Faculty of Informatics and Information Technologies
@@ -117,8 +113,6 @@ Foundational C# with Microsoft (freeCodeCamp)
 NDG Linux Unhatched
 
 <hr>
-
------------------------------------------------------------------------------------------------------
 
 Interests and Goals
 
