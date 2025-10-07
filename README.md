@@ -6,36 +6,53 @@ I am a dedicated full-stack web developer with a strong foundation in crafting s
 Contact
 
 Email: matuscesnak15@gmail.com
+
 LinkedIn: linkedin.com/in/matus-cesnak-6232b02b9
+
 Location: Banská Bystrica, Slovakia
 
 
 Skills and Technologies
+
 Programming Languages and Frameworks
 
 
-PHP (Advanced), Laravel, Symfony
+PHP, Laravel, Symfony
+
 JavaScript, Vue.js, Bootstrap
-Golang (Beginner), C#, C++, C
-Python (Essentials)
+
+Golang, C#, C++, C
+
+Python
 
 
 Tools and Development Practices
+
 Git
+
 Linux
+
 REST API Development
+
 Server Monitoring and Deployment
+
 Intranet and Web Application Development
 
 
 Networking and Systems
+
 Cisco Networking (CCNA1–3, CCNA Security)
+
 System Administration
+
 Network Security Fundamentals
 
 Other Knowledge
+
 Object-Oriented Programming
+
 Database Management
+
 Agile Teamwork and Collaboration
 
 
@@ -44,6 +61,29 @@ Personal Projects
 
 Advanced Graph Algorithms Optimizer (Personal projects, 2024)
 A C++ project optimizing graph algorithms, featuring a parallelized Bellman-Ford for shortest paths and an efficient Tarjan's algorithm for connected components. Included statistical profiling for performance analysis, applied in network simulations during my CCNA training.
+
+<hr>
+
+School Projects
+
+EDUWEB – Education Platform
+
+As part of my Secondary School Activity (SOČ) project in my 3rd year of high school, I developed EDUWEB, a digital education platform originally designed for the subject Digital Communication. Over time, I extended the platform to support multiple subjects, making it a flexible tool for both students and professors.
+Key Features:
+- Professors can create and manage curriculums, exams, and tests.
+- Built-in tools for student–professor communication.
+- Multi-subject support for broader use across classes.
+- Focused on usability and accessibility to enhance the learning experience.
+The project aimed to modernize the learning process and provide a central hub for interactive education.
+
+
+Interactive School Web Platform for Electrical Circuits
+
+In collaboration with TUKE (Technical University of Košice), we developed a web application that allows classrooms to launch electrical circuits with a single click. The platform was designed to integrate with the Merito device from Ceelabs, enabling students and teachers to activate and manage circuits directly from the web interface.
+Key Features:
+- One-click control of classroom electrical circuits
+- Integration with Merito for real-time circuit management
+- Web-based interface for easy accessibility in school environments
 <hr>
 
 Work Experience
