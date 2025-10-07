@@ -40,36 +40,28 @@ Agile Teamwork and Collaboration
 
 
 <hr>
-Projects
-Server Monitoring Dashboard (Personal Project, 2024)
-Developed a real-time server monitoring tool using Laravel for the backend, Vue.js for the frontend, and MySQL for data management. Enhanced with Prometheus and Grafana for detailed metrics visualization, tracking CPU, memory, and network usage. Deployed on a Dockerized Linux environment, boosting efficiency during my tenure at HostCreators.
+Personal Projects
 
-
-Intranet Management System (TSS Group, 2024–Present)
-Directed the creation of an intranet portal using PHP Symfony, incorporating Vue.js for dynamic features such as task management and document sharing. Integrated OAuth authentication, role-based access controls, and security system linkages, streamlining internal processes with automated reports and alerts
-
-
-Advanced Graph Algorithms Optimizer (Academic Project, 2024)
+Advanced Graph Algorithms Optimizer (Personal projects, 2024)
 A C++ project optimizing graph algorithms, featuring a parallelized Bellman-Ford for shortest paths and an efficient Tarjan's algorithm for connected components. Included statistical profiling for performance analysis, applied in network simulations during my CCNA training.
 <hr>
 
 Work Experience
-<hr>
 
 Co-Founder · ITčkár
 September 2025 – Present
 Developing and maintaining software solutions for a small tech startup, managing full-stack development tasks for client projects.
-<hr>
+
 
 Full-Stack Developer · TSS Group
 July 2024 – Present
 Overseeing the development and maintenance of internal systems, including intranet modules, with responsibilities for deployment, testing, and integration.
-<hr>
+
 
 Software Developer · HostCreators
 February 2024 – June 2024
 Created server-side PHP scripts and monitoring tools, designing a web application to oversee company server performance.
-<hr>
+
 
 Software Developer · APIS spol. s r.o.
 September 2022 – February 2023
